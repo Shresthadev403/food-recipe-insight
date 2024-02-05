@@ -1,4 +1,4 @@
-transformers==4.35.2
-torch==1.10.0
-flask==3.0.1
-pyngrok==5.1.0
+transformers==latest-version
+torch==latest-version
+flask==latest-version
+pyngrok==latest-version
